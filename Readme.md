@@ -1,6 +1,6 @@
-# H1 A Simple Extension Model
+# A Simple Extension Model
 
-# Installation Procedure:
+## Installation Procedure:
 
 1. Open the Extension Management page by navigating to *chrome://extensions*.
     1. Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.
